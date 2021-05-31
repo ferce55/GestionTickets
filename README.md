@@ -1,5 +1,4 @@
 # GestionTickets
-=======================================
 ESPAÑOL:
 ---------------------------------------
 Este proyecto es una pequeña practica con hilos, 
